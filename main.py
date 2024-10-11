@@ -8,7 +8,7 @@ starttime = time.time()
 ascii = '$@B%8&Wm#*oahkbdpqwmZOQLCJUYXzcvrjft()+=-:. '
 
 # load an image
-image = iio.imread('C:/Users/oja37/OneDrive - University of Bath/year 4/python/ascii art/lowq.jpg')
+image = iio.imread('')
 
 shapeoftheimage = image.shape
 imageheight = shapeoftheimage[0]
